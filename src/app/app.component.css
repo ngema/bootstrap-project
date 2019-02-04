@@ -1,0 +1,26 @@
+.height{
+    min-height: 100vh;
+}
+.title-underline{
+    width:150px;
+    height:2px;
+    margin:0 auto;
+}
+.height-80{
+min-height:80vh;
+}
+
+.about-picture{
+    background: url(../assets/itemone.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#filler{
+    background: url(../assets/itemthree.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
